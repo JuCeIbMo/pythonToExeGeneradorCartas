@@ -1,0 +1,38 @@
+{
+  "barcos": [
+    {
+      "nombre": "BRISA",
+      "matricula": "6ª AT-5-7-24",
+      "pantalan": "C",
+      "amarre": 41,
+      "potencia": 90,
+      "eslora": 5.80,
+      "instalacion": "MARINA ALICANTE",
+      "salida": "MARINA ALICANTE"
+    },
+    {
+      "nombre": "OKCAHA",
+      "matricula": "6ª B I-3-8-23",
+      "pantalan": "J",
+      "amarre": 53,
+      "potencia": 70,
+      "eslora": 5.98,
+      "instalacion": "REAL CLUB DE REGATAS",
+      "salida": "RCRA"
+    }
+  ],
+  "instructores": [
+    {
+      "nombre": "VICENTE RODRIGUEZ ALONSO",
+      "dni": "46866307N"
+    },
+    {
+      "nombre": "IVAN SOLER MARCOS",
+      "dni": "74366826Y"
+    },
+    {
+      "nombre": "ANTONIO MARCELINO NAVARRO SANCHEZ",
+      "dni": "22005082Q"
+    }
+  ]
+}
